@@ -31,7 +31,19 @@ const Navbar = () => {
               Home
             </Link>
           </li>
-          {/* About link - uses onClick for smooth scrolling to the #about section */}
+          
+          
+          {/* Projects link - uses Link for routing to the projects page */}
+          <li>
+            <Link to="/projects">
+              Projects
+            </Link>
+          </li>
+          
+        </ul>
+        <ul className="nav-links">
+        
+         {/* About link - uses onClick for smooth scrolling to the #about section */}
           <li>
             <a href="#about" onClick={(e) => handleSmoothScroll(e, 'about')}>
               About
@@ -42,12 +54,6 @@ const Navbar = () => {
             <a href="#skills" onClick={(e) => handleSmoothScroll(e, 'skills')}>
               Skills
             </a>
-          </li>
-          {/* Projects link - uses Link for routing to the projects page */}
-          <li>
-            <Link to="/projects">
-              Projects
-            </Link>
           </li>
           {/* Contact link - uses onClick for smooth scrolling to the #contact section */}
           <li>
