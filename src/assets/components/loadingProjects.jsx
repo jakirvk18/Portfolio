@@ -12,6 +12,7 @@ function LoadingProjects() {
                 <span class="loader-letter">M</span>
                 <span class="loader-letter">y</span>
                 <span class="loader-letter"> </span>
+                <span class="loader-letter"></span>
                 <span class="loader-letter">P</span>
                 <span class="loader-letter">r</span>
                 <span class="loader-letter">o</span>
@@ -20,7 +21,6 @@ function LoadingProjects() {
                 <span class="loader-letter">c</span>
                 <span class="loader-letter">t</span>
                 <span class="loader-letter">s</span>
-                <span class="loader-letter"> </span>
 
                 <div class="loader"></div>
             </div>
