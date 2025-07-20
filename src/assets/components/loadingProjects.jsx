@@ -13,8 +13,8 @@ function LoadingProjects() {
                 <span class="loader-letter">y</span>
                 <span class="loader-letter"> </span>
                 <span class="loader-letter">P</span>
-                <span class="loader-letter">o</span>
                 <span class="loader-letter">r</span>
+                <span class="loader-letter">o</span>
                 <span class="loader-letter">j</span>
                 <span class="loader-letter">e</span>
                 <span class="loader-letter">c</span>
